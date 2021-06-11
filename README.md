@@ -1,4 +1,4 @@
-# Discord-RPC
+# Discord-RPC WIth Button's
 
 1. Discord RPC, Built with Node.Js and Discord API/RPC.
 https://nodejs.org/en/
