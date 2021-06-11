@@ -5,4 +5,8 @@ https://nodejs.org/en/
 https://discord.com/developers/docs/intro
 
 2. Install Node.Js, and set up a Discord Appilcation at https://discord.com/developers/docs/intro.
-3. Once bot is set up, make sure 
+3. Once the bot is fully operational, double-check that you have a name and an image available.
+4. Once you've finished, go to Rich Presence and name and add your images.
+5. When you're finished, copy the designated icon names.
+6. Now to setup the script, You must open the file inculded and right click the Index.js file; then click edit. 
+7. Once in fill out the
