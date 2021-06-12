@@ -10,4 +10,4 @@ https://discord.com/developers/docs/intro
 5. When you're finished, copy the designated icon names.
 6. Now to setup the script, You must open the file inculded and right click the Index.js file; then click edit. 
 7. Once in fill out the needed parts, App ID, Button1, Link1, Button2, Lin2, Details, LargeImages.
-8. 8. Now Go to the Windows and type Cmd, Once in make sure you cd to Index.js and node command: Node index.js.
+8. Now Go to the Windows and type Cmd, Once in make sure you cd to Index.js and node command: Node index.js.
